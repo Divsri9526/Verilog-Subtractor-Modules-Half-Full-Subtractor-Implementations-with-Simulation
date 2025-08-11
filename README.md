@@ -59,5 +59,3 @@ Implements a Full Subtractor using:
 
 - Verilog HDL
 - Icarus Verilog (Simulation)
-
-**Block Diagram:**
